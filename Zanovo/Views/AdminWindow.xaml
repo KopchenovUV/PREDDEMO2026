@@ -1,0 +1,82 @@
+﻿<Window x:Class="Zanovo.Views.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Панель администратора" 
+        Height="500" Width="700"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" Text="Управление пользователями" 
+                   FontSize="20" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,15"/>
+
+        <!-- Кнопки управления -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" 
+                    HorizontalAlignment="Center" Margin="0,0,0,15">
+            <Button x:Name="btnAddUser" Content="➕ Добавить пользователя" 
+                    Click="BtnAddUser_Click" 
+                    Height="35" Width="180" Margin="5"
+                    Background="#4CAF50" Foreground="White" Cursor="Hand"/>
+            <Button x:Name="btnRefresh" Content="🔄 Обновить" 
+                    Click="BtnRefresh_Click" 
+                    Height="35" Width="120" Margin="5"
+                    Background="#2196F3" Foreground="White" Cursor="Hand"/>
+        </StackPanel>
+
+        <!-- DataGrid с пользователями -->
+        <DataGrid x:Name="dgUsers" Grid.Row="2" 
+                  AutoGenerateColumns="False" 
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  AlternatingRowBackground="#F5F5F5">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID_User}" Width="50"/>
+                <DataGridTextColumn Header="Логин" Binding="{Binding Login}" Width="150"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding RoleName}" Width="120"/>
+                <DataGridTextColumn Header="Заблокирован" Binding="{Binding Is_Blocked}" Width="100"/>
+                <DataGridTextColumn Header="Неудачных попыток" Binding="{Binding Failed_Attempts}" Width="120"/>
+
+                <DataGridTemplateColumn Header="Действия" Width="180">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="✏ Изменить" 
+                                        Click="BtnEditUser_Click" 
+                                        Tag="{Binding ID_User}"
+                                        Margin="0,0,5,0"
+                                        Background="#FFC107"
+                                        Foreground="Black"
+                                        Cursor="Hand"
+                                        Width="70"/>
+                                <Button Content="🔓 Снять блок" 
+                                        Click="BtnUnblockUser_Click" 
+                                        Tag="{Binding ID_User}"
+                                        Background="#F44336"
+                                        Foreground="White"
+                                        Cursor="Hand"
+                                        Width="80"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Кнопка выхода -->
+        <Button x:Name="btnLogout" Grid.Row="3" Content="🚪 Выйти из системы" 
+            Click="BtnLogout_Click" 
+            Height="40" Width="150" Margin="0,15,0,10"
+            HorizontalAlignment="Right"
+            Background="#9E9E9E" Foreground="White" Cursor="Hand"/>
+    </Grid>
+</Window>

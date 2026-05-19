@@ -1,0 +1,61 @@
+-- ============================================
+-- База данных: любая (например, Moloko_IS)
+-- Автор: ДЭ 09.02.07
+-- Описание: Таблицы для модуля 4
+-- ============================================
+
+USE [Moloko_IS]  -- Укажите имя вашей БД
+GO
+
+-- ============================================
+-- 1. Таблица Roles (роли пользователей)
+-- ============================================
+CREATE TABLE [dbo].[Roles] (
+    [ID_Role] INT IDENTITY(1,1) NOT NULL,
+    [Name]    NVARCHAR(50) NOT NULL,
+    CONSTRAINT [PK_Roles] PRIMARY KEY CLUSTERED ([ID_Role] ASC)
+);
+GO
+
+-- ============================================
+-- 2. Таблица Users (пользователи системы)
+-- ============================================
+CREATE TABLE [dbo].[Users] (
+    [ID_User]        INT IDENTITY(1,1) NOT NULL,
+    [ID_Role]        INT NOT NULL,
+    [Login]          NVARCHAR(50) NOT NULL,
+    [Password_Hash]  NVARCHAR(128) NOT NULL,   -- для хэша пароля
+    [Is_Blocked]     BIT NOT NULL DEFAULT (0), -- 0 - не заблокирован, 1 - заблокирован
+    [Failed_Attempts] INT NOT NULL DEFAULT (0), -- счетчик неудачных попыток
+    CONSTRAINT [PK_Users] PRIMARY KEY CLUSTERED ([ID_User] ASC),
+    CONSTRAINT [UQ_Users_Login] UNIQUE NONCLUSTERED ([Login] ASC),
+    CONSTRAINT [FK_Users_Roles] FOREIGN KEY ([ID_Role]) REFERENCES [dbo].[Roles] ([ID_Role])
+);
+GO
+
+-- ============================================
+-- 3. Начальные данные (роли)
+-- ============================================
+SET IDENTITY_INSERT [dbo].[Roles] ON;
+INSERT INTO [dbo].[Roles] ([ID_Role], [Name]) VALUES (1, N'admin');
+INSERT INTO [dbo].[Roles] ([ID_Role], [Name]) VALUES (2, N'user');
+SET IDENTITY_INSERT [dbo].[Roles] OFF;
+GO
+
+-- ============================================
+-- 4. Начальные данные (пользователи)
+-- Пароли пока открытые (для тестов), потом можно заменить на хэши
+-- ============================================
+INSERT INTO [dbo].[Users] ([ID_Role], [Login], [Password_Hash], [Is_Blocked], [Failed_Attempts])
+VALUES 
+    (1, N'admin', N'admin', 0, 0),   -- администратор (пароль: admin)
+    (2, N'user1', N'user1', 0, 0),   -- обычный пользователь (пароль: user1)
+    (2, N'user2', N'user2', 0, 0);   -- обычный пользователь (пароль: user2)
+GO
+
+-- ============================================
+-- 5. Проверка (необязательно)
+-- ============================================
+SELECT * FROM [dbo].[Roles];
+SELECT * FROM [dbo].[Users];
+GO
