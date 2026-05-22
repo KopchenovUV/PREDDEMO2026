@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\",
+  "WorkspaceRootPath": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|c:\\users\\kopch\\onedrive\\desktop\\\u0434\u0435\u043C\u043E\u0444\\\u043F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\zanovo\\zanovo\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|c:\\users\\kopch\\onedrive\\desktop\\\u0434\u0435\u043C\u043E\u0444\\\u043F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\zanovo\\zanovo\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\addedituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\addedituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\views\\addedituserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\addedituserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\addedituserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\models\\databasemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\models\\databasemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\zanovo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|c:\\users\\kopch\\onedrive\\desktop\\\u0434\u0435\u043C\u043E\u0444\\2-3\\zanovo\\zanovo\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\views\\addedituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\views\\addedituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\zanovo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}|Zanovo\\Zanovo.csproj|solutionrelative:zanovo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,64 +70,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CaptchaHelper.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Helpers\\CaptchaHelper.cs",
-              "RelativeDocumentMoniker": "Zanovo\\Helpers\\CaptchaHelper.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Helpers\\CaptchaHelper.cs*",
-              "RelativeToolTip": "Zanovo\\Helpers\\CaptchaHelper.cs*",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T12:53:02.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\App.xaml",
-              "RelativeDocumentMoniker": "Zanovo\\App.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\App.xaml",
-              "RelativeToolTip": "Zanovo\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-19T12:12:26.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "Zanovo\\Views\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml",
-              "RelativeToolTip": "Zanovo\\Views\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-19T11:59:42.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Zanovo\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\App.xaml.cs",
-              "RelativeToolTip": "Zanovo\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T12:38:43.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "Zanovo\\Views\\AdminWindow.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "Zanovo\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-19T12:05:45.628Z",
@@ -135,71 +86,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zanovo\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Zanovo\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:05:27.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\UserWindow.xaml",
               "RelativeDocumentMoniker": "Zanovo\\Views\\UserWindow.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\UserWindow.xaml",
               "RelativeToolTip": "Zanovo\\Views\\UserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-19T12:10:48.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddEditUserDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml",
-              "RelativeDocumentMoniker": "Zanovo\\Views\\AddEditUserDialog.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml",
-              "RelativeToolTip": "Zanovo\\Views\\AddEditUserDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-19T12:08:28.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Zanovo\\Views\\AdminWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "Zanovo\\Views\\AdminWindow.xaml.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAYwHMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T12:07:15.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Zanovo\\Views\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "Zanovo\\Views\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwG8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T12:05:27.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppData.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Data\\AppData.cs",
-              "RelativeDocumentMoniker": "Zanovo\\Data\\AppData.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Data\\AppData.cs",
-              "RelativeToolTip": "Zanovo\\Data\\AppData.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAYwJMAAAAFAAAAAAAAAA==",
+              "Title": "AddEditUserDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Zanovo\\Views\\AddEditUserDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml.cs",
+              "RelativeToolTip": "Zanovo\\Views\\AddEditUserDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T11:54:59.248Z",
+              "WhenOpened": "2026-05-19T12:10:18.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Zanovo\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Zanovo\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:07:15.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Zanovo\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Zanovo\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-22T09:41:16.239Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\UserWindow.xaml.cs",
               "RelativeDocumentMoniker": "Zanovo\\Views\\UserWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\UserWindow.xaml.cs",
               "RelativeToolTip": "Zanovo\\Views\\UserWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,45 +159,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CaptchaHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Helpers\\CaptchaHelper.cs",
+              "RelativeDocumentMoniker": "Zanovo\\Helpers\\CaptchaHelper.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Helpers\\CaptchaHelper.cs",
+              "RelativeToolTip": "Zanovo\\Helpers\\CaptchaHelper.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:53:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Data\\AppData.cs",
+              "RelativeDocumentMoniker": "Zanovo\\Data\\AppData.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Data\\AppData.cs",
+              "RelativeToolTip": "Zanovo\\Data\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:54:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Zanovo\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Zanovo\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T11:59:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditUserDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml",
+              "RelativeDocumentMoniker": "Zanovo\\Views\\AddEditUserDialog.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml",
+              "RelativeToolTip": "Zanovo\\Views\\AddEditUserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T12:08:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Zanovo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\App.xaml.cs",
+              "RelativeToolTip": "Zanovo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:38:43.622Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\App.xaml",
+              "RelativeDocumentMoniker": "Zanovo\\App.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\App.xaml",
+              "RelativeToolTip": "Zanovo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T12:12:26.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Zanovo\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\MainWindow.xaml",
               "RelativeToolTip": "Zanovo\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-19T11:48:17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddEditUserDialog.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml.cs",
-              "RelativeDocumentMoniker": "Zanovo\\Views\\AddEditUserDialog.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Views\\AddEditUserDialog.xaml.cs",
-              "RelativeToolTip": "Zanovo\\Views\\AddEditUserDialog.xaml.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAqwFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T12:10:18.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DatabaseModel.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\Models\\DatabaseModel.edmx",
-              "RelativeDocumentMoniker": "Zanovo\\Models\\DatabaseModel.edmx",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Zanovo\\Zanovo\\Models\\DatabaseModel.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Zanovo\\Zanovo\\Models\\DatabaseModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-05-19T11:54:10.917Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Zanovo\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\\u041F\u0440\u0435\u0434\u0437\u0430\u0449\u0438\u0442\u043A\u0430\\Zanovo\\Zanovo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kopch\\OneDrive\\Desktop\\\u0434\u0435\u043C\u043E\u0424\\2-3\\Zanovo\\Zanovo\\MainWindow.xaml.cs",
               "RelativeToolTip": "Zanovo\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

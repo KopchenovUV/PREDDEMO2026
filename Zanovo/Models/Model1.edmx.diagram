@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8e00c35c53f64cf7b3bf9ce768aea81b" Name="Diagram1">
+        <EntityTypeShape EntityType="Moloko_ISModel.Contractors" Width="1.5" PointX="1.5" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.MaterialConsumptions" Width="1.5" PointX="8" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.MaterialPrices" Width="1.5" PointX="8" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Materials" Width="1.5" PointX="5.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.OrderItems" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Orders" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.ProductionItems" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Productions" Width="1.5" PointX="3.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.ProductPrices" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Products" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Roles" Width="1.5" PointX="8.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.SpecItems" Width="1.5" PointX="8" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Moloko_ISModel.Users" Width="1.5" PointX="11" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="Moloko_ISModel.FK__Orders__ID_Buyer__0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__Orders__ID_Execu__0B91BA14" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__MaterialC__ID_Ma__18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__MaterialP__ID_Ma__01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__SpecItems__ID_Ma__07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__OrderItem__ID_Or__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__OrderItem__ID_Pr__0F624AF8" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__Productio__ID_Pr__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__Productio__ID_Pr__151B244E" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__ProductPr__ID_Pr__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="Moloko_ISModel.FK__Users__ID_Role__778AC167" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

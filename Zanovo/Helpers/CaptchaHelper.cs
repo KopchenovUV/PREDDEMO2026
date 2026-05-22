@@ -75,7 +75,7 @@ namespace Zanovo.Helpers
 
         private BitmapImage LoadImage(int number)
         {
-            var uri = new Uri($"C:/Users/kopch/OneDrive/Desktop/демоФ/Предзащитка/Zanovo/Zanovo/Images/captcha/{number}.png");
+            var uri = new Uri($"C:/Users/kopch/OneDrive/Desktop/демоФ/2-3/Zanovo/Zanovo/Images/captcha/{number}.png");
             return new BitmapImage(uri);
         }
 

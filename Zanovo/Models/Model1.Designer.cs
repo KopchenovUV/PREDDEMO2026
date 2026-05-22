@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "C:\Users\kopch\OneDrive\Desktop\демоФ\Новая папка\Zanovo\Zanovo\Models\DatabaseModel.edmx" включено. 
+﻿// Создание кода T4 для модели "C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\Models\Model1.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.
