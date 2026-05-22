@@ -20,7 +20,5 @@ namespace Zanovo.Models
         public string Password_Hash { get; set; }
         public bool Is_Blocked { get; set; }
         public int Failed_Attempts { get; set; }
-    
-        public virtual Roles Roles { get; set; }
     }
 }

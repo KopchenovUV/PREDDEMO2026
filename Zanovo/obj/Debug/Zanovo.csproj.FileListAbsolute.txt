@@ -65,7 +65,6 @@ C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\bin\Debug\EntityFra
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\bin\Debug\EntityFramework.xml
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\obj\Debug\Zanovo.csproj.AssemblyReference.cache
-C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\obj\Debug\Zanovo.exe.config
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\obj\Debug\Views\AddEditUserDialog.baml
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\obj\Debug\Views\AdminWindow.baml
 C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\Zanovo\obj\Debug\Views\LoginWindow.baml

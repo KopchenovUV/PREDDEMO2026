@@ -9,12 +9,12 @@ namespace Zanovo.Data
 {
     public class AppData
     {
-        private static Moloko_ISEntities2 _context;
+        private static gas159Entities2 _context;
 
-        public static Moloko_ISEntities2 GetContext()
+        public static gas159Entities2 GetContext()
         {
             if (_context == null)
-                _context = new Moloko_ISEntities2();
+                _context = new gas159Entities2();
             return _context;
         }
 

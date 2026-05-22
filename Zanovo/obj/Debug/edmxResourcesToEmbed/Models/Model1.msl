@@ -1,126 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="Хранилище Moloko_ISModelContainer" CdmEntityContainer="Moloko_ISEntities2">
-    <EntitySetMapping Name="Contractors">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Contractors">
-        <MappingFragment StoreEntitySet="Contractors">
-          <ScalarProperty Name="ID_Contractor" ColumnName="ID_Contractor" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="INN" ColumnName="INN" />
-          <ScalarProperty Name="IsBuyer" ColumnName="IsBuyer" />
-          <ScalarProperty Name="IsSalesman" ColumnName="IsSalesman" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="MaterialConsumptions">
-      <EntityTypeMapping TypeName="Moloko_ISModel.MaterialConsumptions">
-        <MappingFragment StoreEntitySet="MaterialConsumptions">
-          <ScalarProperty Name="ID_Consumption" ColumnName="ID_Consumption" />
-          <ScalarProperty Name="ID_Production" ColumnName="ID_Production" />
-          <ScalarProperty Name="ID_Material" ColumnName="ID_Material" />
-          <ScalarProperty Name="Actual_Quantity" ColumnName="Actual_Quantity" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="MaterialPrices">
-      <EntityTypeMapping TypeName="Moloko_ISModel.MaterialPrices">
-        <MappingFragment StoreEntitySet="MaterialPrices">
-          <ScalarProperty Name="ID_Price" ColumnName="ID_Price" />
-          <ScalarProperty Name="ID_Material" ColumnName="ID_Material" />
-          <ScalarProperty Name="Price" ColumnName="Price" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Materials">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Materials">
-        <MappingFragment StoreEntitySet="Materials">
-          <ScalarProperty Name="ID_Material" ColumnName="ID_Material" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Unit" ColumnName="Unit" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="OrderItems">
-      <EntityTypeMapping TypeName="Moloko_ISModel.OrderItems">
-        <MappingFragment StoreEntitySet="OrderItems">
-          <ScalarProperty Name="ID_Item" ColumnName="ID_Item" />
-          <ScalarProperty Name="ID_Order" ColumnName="ID_Order" />
-          <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
-          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
-          <ScalarProperty Name="Price_Per_Unit" ColumnName="Price_Per_Unit" />
-          <ScalarProperty Name="Line_Sum" ColumnName="Line_Sum" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Orders">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Orders">
-        <MappingFragment StoreEntitySet="Orders">
-          <ScalarProperty Name="ID_Order" ColumnName="ID_Order" />
-          <ScalarProperty Name="Order_Number" ColumnName="Order_Number" />
-          <ScalarProperty Name="Order_Date" ColumnName="Order_Date" />
-          <ScalarProperty Name="ID_Buyer" ColumnName="ID_Buyer" />
-          <ScalarProperty Name="ID_Executor" ColumnName="ID_Executor" />
-          <ScalarProperty Name="Total_Sum" ColumnName="Total_Sum" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="ProductionItems">
-      <EntityTypeMapping TypeName="Moloko_ISModel.ProductionItems">
-        <MappingFragment StoreEntitySet="ProductionItems">
-          <ScalarProperty Name="ID_Item" ColumnName="ID_Item" />
-          <ScalarProperty Name="ID_Production" ColumnName="ID_Production" />
-          <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
-          <ScalarProperty Name="Quantity_Produced" ColumnName="Quantity_Produced" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Productions">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Productions">
-        <MappingFragment StoreEntitySet="Productions">
-          <ScalarProperty Name="ID_Production" ColumnName="ID_Production" />
-          <ScalarProperty Name="Production_Number" ColumnName="Production_Number" />
-          <ScalarProperty Name="Production_Date" ColumnName="Production_Date" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="ProductPrices">
-      <EntityTypeMapping TypeName="Moloko_ISModel.ProductPrices">
-        <MappingFragment StoreEntitySet="ProductPrices">
-          <ScalarProperty Name="ID_Price" ColumnName="ID_Price" />
-          <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
-          <ScalarProperty Name="Price" ColumnName="Price" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Products">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Products">
-        <MappingFragment StoreEntitySet="Products">
-          <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Unit" ColumnName="Unit" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
+  <EntityContainerMapping StorageEntityContainer="Хранилище gas159ModelContainer" CdmEntityContainer="gas159Entities2">
     <EntitySetMapping Name="Roles">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Roles">
+      <EntityTypeMapping TypeName="gas159Model.Roles">
         <MappingFragment StoreEntitySet="Roles">
           <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />
           <ScalarProperty Name="Name" ColumnName="Name" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="SpecItems">
-      <EntityTypeMapping TypeName="Moloko_ISModel.SpecItems">
-        <MappingFragment StoreEntitySet="SpecItems">
-          <ScalarProperty Name="ID_Item" ColumnName="ID_Item" />
-          <ScalarProperty Name="ID_Spec" ColumnName="ID_Spec" />
-          <ScalarProperty Name="ID_Material" ColumnName="ID_Material" />
-          <ScalarProperty Name="Quantity_Per_Unit" ColumnName="Quantity_Per_Unit" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="Users">
-      <EntityTypeMapping TypeName="Moloko_ISModel.Users">
+      <EntityTypeMapping TypeName="gas159Model.Users">
         <MappingFragment StoreEntitySet="Users">
           <ScalarProperty Name="ID_User" ColumnName="ID_User" />
           <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />

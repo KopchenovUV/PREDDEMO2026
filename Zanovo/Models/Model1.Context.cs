@@ -13,10 +13,10 @@ namespace Zanovo.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Moloko_ISEntities2 : DbContext
+    public partial class gas159Entities2 : DbContext
     {
-        public Moloko_ISEntities2()
-            : base("name=Moloko_ISEntities2")
+        public gas159Entities2()
+            : base("name=gas159Entities2")
         {
         }
     
@@ -25,18 +25,7 @@ namespace Zanovo.Models
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Contractors> Contractors { get; set; }
-        public virtual DbSet<MaterialConsumptions> MaterialConsumptions { get; set; }
-        public virtual DbSet<MaterialPrices> MaterialPrices { get; set; }
-        public virtual DbSet<Materials> Materials { get; set; }
-        public virtual DbSet<OrderItems> OrderItems { get; set; }
-        public virtual DbSet<Orders> Orders { get; set; }
-        public virtual DbSet<ProductionItems> ProductionItems { get; set; }
-        public virtual DbSet<Productions> Productions { get; set; }
-        public virtual DbSet<ProductPrices> ProductPrices { get; set; }
-        public virtual DbSet<Products> Products { get; set; }
         public virtual DbSet<Roles> Roles { get; set; }
-        public virtual DbSet<SpecItems> SpecItems { get; set; }
         public virtual DbSet<Users> Users { get; set; }
     }
 }
