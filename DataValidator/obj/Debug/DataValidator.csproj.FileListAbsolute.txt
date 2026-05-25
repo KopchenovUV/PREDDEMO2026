@@ -1,0 +1,15 @@
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\bin\Debug\DataValidator.exe.config
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\bin\Debug\DataValidator.exe
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\bin\Debug\DataValidator.pdb
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.csproj.AssemblyReference.cache
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\MainWindow.baml
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\MainWindow.g.cs
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\App.g.cs
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator_MarkupCompile.cache
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.g.resources
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.Properties.Resources.resources
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.csproj.GenerateResource.cache
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.csproj.CoreCompileInputs.cache
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.exe
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.pdb
+C:\Users\kopch\OneDrive\Desktop\демоФ\2-3\Zanovo\DataValidator\obj\Debug\DataValidator.exe.config

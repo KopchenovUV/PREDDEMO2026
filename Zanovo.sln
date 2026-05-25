@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zanovo", "Zanovo\Zanovo.csproj", "{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValidator", "DataValidator\DataValidator.csproj", "{FD913190-E74F-4F1B-8097-6507557499E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA9381C-5B41-4870-997E-FF7DA26EFBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD913190-E74F-4F1B-8097-6507557499E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD913190-E74F-4F1B-8097-6507557499E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD913190-E74F-4F1B-8097-6507557499E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD913190-E74F-4F1B-8097-6507557499E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
