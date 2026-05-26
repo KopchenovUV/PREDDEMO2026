@@ -74,7 +74,7 @@ namespace DataValidator
         {
             // Проверяем два критерия
             bool hasDigits = Regex.IsMatch(currentFIO, @"\d");
-            bool hasSpecialChars = Regex.IsMatch(currentFIO, @"[!@#$%^&*()_+{}\[\]:;'""<>?,./\\|`~]");
+            bool hasSpecialChars = Regex.IsMatch(currentFIO, @"[!@#$%^&*()_+{}\[\]:;'""<>?,./\\|`~=]");
 
             bool isValid = !hasDigits && !hasSpecialChars;
 
@@ -221,7 +221,7 @@ namespace DataValidator
             {
                 // Определяем результаты для каждого теста
                 bool hasDigits = Regex.IsMatch(currentFIO, @"\d");
-                bool hasSpecialChars = Regex.IsMatch(currentFIO, @"[!@#$%^&*()_+{}\[\]:;'""<>?,./\\|`~]");
+                bool hasSpecialChars = Regex.IsMatch(currentFIO, @"[!@#$%^&*()_+{}\[\]:;'""<>?,./\\|`~=]");
                 bool isValid = !hasDigits && !hasSpecialChars;
 
                 // Результат теста 1 (проверка на цифры) - всегда проверяем на примере с цифрами
